@@ -19,7 +19,7 @@ Add your specs in <tt>spec</tt>; just require <tt>spec_helper.rb</tt> to pre-con
 
 == Guard
   
-  You can use guard if you want to test each change when you save the file
+You can use guard if you want to test each change when you save the file
 
 == Getting Started
 
